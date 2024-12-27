@@ -1,0 +1,19 @@
+{
+  "name": "g-m",
+  "version": "1.0.0",
+  "description": "Automates Facebook login and profile picture extraction.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["automation", "facebook", "puppeteer", "profile"],
+  "author": "Your Name",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "dotenv": "^16.4.7",
+    "puppeteer": "^23.11.1"
+  }
+}
+
